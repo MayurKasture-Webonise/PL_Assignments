@@ -32,3 +32,9 @@ class String_manipulation
         obj.task();
     }
 }
+
+
+//Why We Use This Java Lang?
+  //-> 1) I Latestly Working on it. So I'm Confortable with java 
+ //    2) Platform Independent. 
+//     3) most portable high performance languages
